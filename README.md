@@ -1,6 +1,6 @@
 # 📱🛰️ TapBaitx
 
-![TapBaitx cover](assets/cover.png)
+![TapBaitx cover](IMG_5481.png)
 
 **A consent-first phone, cell phone, video-call, location, and media tracking lab — built with synthetic fixtures only, in Python 🐍, Java ☕, and JavaScript 🟨.**
 
